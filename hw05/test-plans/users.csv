@@ -1,0 +1,2 @@
+user_id,email,password,product_id,product_name,product_price,quantity,cart_total,coupon_code,shipping_address,search
+2,test@eshop.com,Test1234!,4,Tai nghe AirPods Pro 2,6000000,1,6000000,VIP100,12 Le Loi Q1 HCMC,Tai nghe
